@@ -1,0 +1,28 @@
+name: StartupBusiness
+favicon: null
+layout_spectrum: 0.9537796417716891
+typography_spectrum: 0.27411545533686876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05763183068484068
+  lightness: 0.9153100079856813
+  saturation: 0.26485241833142936
+  rhythmicContrast: 0.8008157892618328
+purpose: []
